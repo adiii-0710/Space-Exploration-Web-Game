@@ -86,14 +86,13 @@ This project was developed as part of a **web development case study** to demons
 
 * Figure: Page Flow of Space Exploration Web Game
   
-Launch Screen
-      ↓
-Mission Selection
-      ↓
-Gameplay Dashboard
-      ↓
-Random Space Events
-      ↓
-Mission Completion
-      ↓
-Upgrade / Next Mission
+### Page Flow of Space Exploration Web Game
+
+| Step | Screen |
+|-----|--------|
+| 1 | Launch Screen |
+| 2 | Mission Selection |
+| 3 | Gameplay Dashboard |
+| 4 | Random Space Events |
+| 5 | Mission Completion |
+| 6 | Upgrade / Next Mission |
