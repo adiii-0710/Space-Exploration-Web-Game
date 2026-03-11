@@ -83,3 +83,17 @@ Space-Exploration-Web-Game
 This project was developed as part of a **web development case study** to demonstrate how HTML, CSS, and JavaScript can be used to build an interactive browser-based application that simulates a real-world scenario.
 
 ---
+
+* Figure: Page Flow of Space Exploration Web Game
+  
+Launch Screen
+      ↓
+Mission Selection
+      ↓
+Gameplay Dashboard
+      ↓
+Random Space Events
+      ↓
+Mission Completion
+      ↓
+Upgrade / Next Mission
